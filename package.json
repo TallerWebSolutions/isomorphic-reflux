@@ -5,7 +5,7 @@
   "main": "src/init.js",
   "scripts": {},
   "peerDependencies": {
-    "react": "0.12",
+    "react": "^0.12.2 || ^0.13.1",
     "reflux": "0.2"
   },
   "dependencies": {
